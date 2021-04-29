@@ -1,5 +1,11 @@
 #
 ```
+Kubernetes 30天學習筆記系列 
+https://ithelp.ithome.com.tw/articles/10192401
+```
+
+# 
+```
 第8章 搭建Kubernetes集群
 8.1 Docker+Kubernetes已成為雲計算的主流
 8.1.1 什麼是Kubernetes
