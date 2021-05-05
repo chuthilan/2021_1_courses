@@ -28,3 +28,11 @@ PHP物件導向技術 ch9
   圖片縮圖處理
   圖片浮水印處理
 ```
+# 資料型態(型別,data type)及其運算
+```
+PHP支援下列幾種型別:
+純量型別  (scalar type)" 
+    整數  (integer) | 浮點數  (float、double) | 布林  (boolean)  |字串  (string) 
+特殊型別  (special type) :  NULL  |   資源  (resource) 
+複合型別  (compound type) :  陣列  (array)  | 物件  (object) 
+```
