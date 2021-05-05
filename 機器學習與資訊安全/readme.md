@@ -24,6 +24,8 @@ Data Science from Scratch, 2nd edition
 http://books.gotop.com.tw/v_A616
 
 [2]機器學習與人工智慧
+
+MyFirstSecurity2020/DataScienceAndMachineLearning
 ```
 # 2021年 專題生
 ```
