@@ -65,9 +65,8 @@ Python伺服器程式開發(Danjgo, Flask)
 ```
 ## 客戶端表單程式2 phone2.html
 ```
- <body>
-    <form method="post" action="confirm.php">
-  ........  加入伺服器處理程式
+      <form> ==> 改成  <form method="post" action="confirm.php">
+  ........  加入資料傳送方法(method="post")及伺服器處理程式(action="confirm.php")
 ```
 ## 伺服器處理程式 confirm.php
 ```
