@@ -24,7 +24,7 @@ RemoteSigned ：在本機電腦所撰寫的腳本檔，不需要簽署就可執�
 Unrestricted ：任何腳本檔皆可被執行，但是於執行網際網路下載的腳本檔時，會先出現警告的提示視窗。
 ```
 
-# Get-help 
+# 2.Get-help 
 ## 收集電腦的相關資訊Get-CimInstance
 ```
 https://docs.microsoft.com/zh-tw/powershell/scripting/samples/collecting-information-about-computers?view=powershell-7.1
@@ -76,30 +76,39 @@ REMARKS
 
 ```
 
+# 3.使用檔案及資料夾
+```
+https://docs.microsoft.com/zh-tw/powershell/scripting/samples/working-with-files-and-folders?view=powershell-7.1
+
+
+Get-ChildItem 
 
 ```
-Get-Help
-Get-ExecutionPolicy   Set-ExecutionPolicy
-
+```
+https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-childitem?view=powershell-7.1
+```
+```
 Get-ChildItem ==> Enumerating Files, Folders, and Registry Keys
   Get-Command -Name Get-ChildItem -Syntax
 
 ConvertTo-HTML
 Export-CSV
 
+```
 
-系統
+# 行程管理
+```
 Get-Process  Stop-Process
 Get-Service
 Get-Member
 Get-EventLog
+```
 
+# 網路
 
-網路
+# registry
 
-registry
-
-
+```
 Windows Management Instrumentation (WMI) 
 
 Get-CimInstance ==>
