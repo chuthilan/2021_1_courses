@@ -95,7 +95,66 @@ ConvertTo-HTML
 Export-CSV
 
 ```
+# 適用於系統管理的範例指令碼
+```
+https://docs.microsoft.com/zh-tw/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.1
+```
+##  使用物件
+```
+檢視物件結構 - Get-Member
+選取物件的組件 - Select-Object
+從管線中移除物件 - Where-Object
 
+為物件排序
+對多個物件重複工作 - ForEach-Object
+建立 .NET 和 COM 物件 - New-Object
+使用靜態類別和方法
+取得 WMI 物件 - Get-CimInstance
+```
+## 管理電腦
+```
+變更電腦狀態
+收集電腦的相關資訊
+使用 FilterHashtable 建立 Get-WinEvent 查詢
+```
+# 管理處理序與服務
+```
+使用 FilterHashtable 建立 Get-WinEvent 查詢
+使用處理序 Cmdlet 管理處理序
+管理服務
+管理 PowerShell 磁碟機
+使用印表機
+執行網路工作
+處理軟體安裝
+從正在執行的處理序解碼 PowerShell 命令
+```
+## 使用輸出
+```
+使用 Out-* Cmdlet 將資料重新導向
+使用格式命令變更輸出檢視
+```
+## 管理裝置與檔案
+```
+管理目前的位置
+使用檔案及資料夾
+使用檔案、資料夾與登錄機碼
+使用登錄項目
+使用登錄機碼
+```
+## 建立UI元素
+```
+建立自訂輸入方塊
+建立圖形化日期選擇器
+多重選取清單方塊
+從清單方塊選取項目
+```
+## 其他範例
+```
+直接操作項目
+其他實用的指令碼物件
+附錄 1 相容性別名
+附錄 2 建立自訂 PowerShell 捷徑
+```
 # 行程管理
 ```
 Get-Process  Stop-Process
