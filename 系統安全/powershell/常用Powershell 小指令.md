@@ -4,6 +4,18 @@
 ```
 
 ```
+Get-ExecutionPolicy   
+
+
+Unrestricted
+```
+
+```
+Set-ExecutionPolicy Unrestricted
+
+```
+
+```
 Get-Help
 Get-ExecutionPolicy   Set-ExecutionPolicy
 
