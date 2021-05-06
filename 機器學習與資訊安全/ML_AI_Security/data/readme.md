@@ -11,6 +11,8 @@ Kaggle 競賽攻頂秘笈 -- 揭開 Grandmaster 的特徵工程心法，掌握�
 門脇大輔、阪田隆司、保坂桂佑、平松雄司 著 李彥婷 譯
 旗標科技  2021-02-22
 
+https://github.com/ghmagazine/kagglebook
+
 Kaggle: https://www.kaggle.com/rsakata
 Kaggle: https://www.kaggle.com/threecourse
 Kaggle: https://www.kaggle.com/hskksk
